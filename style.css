@@ -2,7 +2,7 @@ body{
     font-family: 'Poppins', sans-serif;
 }
 .name{
-    color: orange;
+    color: rgba(255, 166, 0, 0.781);
 }
 h1{
     font-size: 50px;
@@ -15,4 +15,10 @@ h1{
 }
 .half img{
     width: 100%;   
+}
+.num{
+    color: rgb(153, 224, 248);
+}
+.nam{
+    color: rgb(140, 217, 248);
 }
